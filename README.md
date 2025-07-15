@@ -1,4 +1,4 @@
-![N2j1](https://github.com/user-attachments/assets/0d4c7ee4-cd9f-41ca-9f38-108b7651e734)
+<img src="https://github.com/user-attachments/assets/0d4c7ee4-cd9f-41ca-9f38-108b7651e734" style="width: 100%; height: auto;" />
 
 ## Hi👋 Im Hosein Ghodrati
 
