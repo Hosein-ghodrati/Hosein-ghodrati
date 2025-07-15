@@ -1,5 +1,13 @@
-## Hi there 👋
 
+## Hi👋 Im Hosein Ghodrati
+
+A Front-End Developer
+
+
+🌱 I’m currently learning Back-End, PHP, Tailwind, Javascript , react.js , next.js....  <br>
+👨‍💻 All of my projects are available at https://github.com/hosein-Ghodrati/<br>
+💬 Ask me about Html5 , Css3 , Javascript , react.js , next.js , tailwind , bootstrap....<br>
+📫 How to reach me hoseinqodrati5@gmail.com<br>
 <!--
 **Hosein-ghodrati/Hosein-ghodrati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
